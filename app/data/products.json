@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Cotton T-Shirt",
+    "description": "Comfortable and breathable cotton t-shirt",
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "name": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Durable and leak-proof stainless steel water bottle",
+    "price": 5.99
+  },
+  {
+    "id": 4,
+    "name": "Wireless Bluetooth Earphones",
+    "description": "High-quality wireless earphones with noise cancellation",
+    "price": 7.99
+  },
+  {
+    "id": 5,
+    "name": "Sports Watch",
+    "description": "Water-resistant sports watch with multiple fitness tracking features",
+    "price": 14.99
+  },
+  {
+    "id": 6,
+    "name": "Portable Power Bank",
+    "description": "Compact and lightweight power bank for charging devices on the go",
+    "price": 9.99
+  },
+  {
+    "id": 7,
+    "name": "Travel Backpack",
+    "description": "Spacious and durable backpack with multiple compartments",
+    "price": 12.99
+  },
+  {
+    "id": 8,
+    "name": "Stainless Steel Cutlery Set",
+    "description": "Set of stainless steel cutlery for dining and travel",
+    "price": 6.99
+  },
+  {
+    "id": 9,
+    "name": "Insulated Coffee Mug",
+    "description": "Double-walled insulated coffee mug to keep beverages hot or cold",
+    "price": 8.99
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse for comfortable computer use",
+    "price": 11.99
+  },
+  {
+    "id": 11,
+    "name": "Foldable Umbrella",
+    "description": "Compact and lightweight umbrella with UV protection",
+    "price": 13.99
+  },
+  {
+    "id": 12,
+    "name": "Travel Neck Pillow",
+    "description": "Soft and supportive neck pillow for comfortable travel",
+    "price": 15.99
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality",
+    "price": 16.99
+  },
+  {
+    "id": 14,
+    "name": "Digital Alarm Clock",
+    "description": "Digital alarm clock with snooze and temperature display",
+    "price": 17.99
+  },
+  {
+    "id": 15,
+    "name": "Portable Charger",
+    "description": "Compact and fast-charging portable charger for smartphones",
+    "price": 18.99
+  },
+  {
+    "id": 16,
+    "name": "Portable Bluetooth Headphones",
+    "description": "Wireless Bluetooth headphones with long battery life",
+    "price": 20.99
+  },
+  {
+    "id": 17,
+    "name": "Stainless Steel Travel Mug",
+    "description": "Sturdy and leak-proof travel mug for hot and cold beverages",
+    "price": 21.99
+  },
+  {
+    "id": 18,
+    "name": "Waterproof Phone Case",
+    "description": "Waterproof phone case for protection during outdoor activities",
+    "price": 22.99
+  },
+  {
+    "id": 19,
+    "name": "Fitness Tracker",
+    "description": "Activity tracker with heart rate monitor and sleep tracking",
+    "price": 23.99
+  },
+  {
+    "id": 20,
+    "name": "Bluetooth Wireless Earbuds",
+    "description": "True wireless earbuds with built-in microphone",
+    "price": 24.99
+  },
+  {
+    "id": 21,
+    "name": "Travel Toiletry Bag",
+    "description": "Compact and organized toiletry bag for travel essentials",
+    "price": 25.99
+  },
+  {
+    "id": 22,
+    "name": "Reusable Shopping Bags",
+    "description": "Set of reusable shopping bags for eco-friendly grocery shopping",
+    "price": 26.99
+  },
+  {
+    "id": 23,
+    "name": "Fitness Yoga Mat",
+    "description": "Non-slip and cushioned yoga mat for comfortable workouts",
+    "price": 27.99
+  },
+  {
+    "id": 24,
+    "name": "USB Flash Drive",
+    "description": "Portable USB flash drive for easy data storage and transfer",
+    "price": 28.99
+  }
+]
